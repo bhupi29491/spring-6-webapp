@@ -26,3 +26,5 @@ replay_pid*
 # Intellij specific files
 .idea/
 HELP.md
+
+target/
